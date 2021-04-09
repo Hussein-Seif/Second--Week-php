@@ -1,0 +1,6 @@
+the proble is to make tow  function (first&second) the first-fun take the number from input one and second-fun take the number from second-input
+
+you have two files .php (form an handel form )
+the first-fun print the number In ascending order
+and the second-fun print the number In ascending order
+and both of  them sum the odd & even numbers
